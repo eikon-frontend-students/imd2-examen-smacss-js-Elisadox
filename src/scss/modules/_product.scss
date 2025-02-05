@@ -1,0 +1,37 @@
+.product-prod {
+  display: flex;
+  width: 416px;
+  padding: 0px 40px 20px 40px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  background: var(--green, #a0d187);
+}
+
+.product-titles {
+  display: flex;
+  width: 416px;
+  padding: 0px 40px 20px 40px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  color: var(--dark-blue, #005564);
+  text-align: center;
+  font-family: "Nunito Sans";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.product-titlesH {
+  color: var(--dark-blue, #005564);
+  text-align: center;
+  font-family: "Nunito Sans";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.product-produit {
+  height: 269px;
+}

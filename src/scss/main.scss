@@ -2,3 +2,9 @@
 @import "base";
 @import "layout";
 @import "modules/example";
+@import "modules/product";
+@import "modules/bottom";
+
+.box.change-color {
+  background: var(--red);
+}
